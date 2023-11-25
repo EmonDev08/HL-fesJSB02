@@ -47,3 +47,4 @@ for (var i = 0; i < 50; i++) {
   div.style.filter = "blur(" + blurSnow + "px)";
   container.appendChild(div);
 }
+console.log('hi');
